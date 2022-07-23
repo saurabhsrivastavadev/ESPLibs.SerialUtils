@@ -1,2 +1,2 @@
 # ESPLibs.SerialUtils
-Serial port utility library for ESP32 board
+Serial port utility library for ESP32 board.
